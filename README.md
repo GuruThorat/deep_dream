@@ -1,2 +1,2 @@
 # deep_dream
-here what we're doing is just experimenting with google's deep dream
+what we're doing here is just experimenting with google's deep dream and see what it can do
